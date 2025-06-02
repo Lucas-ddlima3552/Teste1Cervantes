@@ -12,7 +12,7 @@ Aplicação desktop desenvolvida em C# (Windows Forms) com PostgreSQL, como part
 
 - Todos os campos são obrigatórios
 - Validações implementadas no banco (NOT NULL, UNIQUE, > 0)
-- Log de operações (INSERT) com data/hora via trigger
+- Log de operações com data/hora via trigger
 
 ## 📁 Estrutura
 
